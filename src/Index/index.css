@@ -16,8 +16,6 @@
     font-style: normal;
 
 }
-
-
 /*standard body*/
 
 body{
@@ -25,6 +23,10 @@ body{
     font-family: 'Kdam Thmor Pro', sans-serif;
     font-size: 18px;
     color: black; 
+    
+}
+
+.landingPage {
     background-image: url("../assets/pxArt.png");
     background-size: cover;
     background-repeat: no-repeat;
@@ -35,7 +37,6 @@ body{
     top: 0px; 
     left: 0px; 
     overflow: hidden;
-    
 }
 
 
@@ -225,4 +226,3 @@ a{
     color: white; 
     text-decoration: none; 
 }
-
