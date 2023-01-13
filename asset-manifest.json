@@ -1,19 +1,18 @@
 {
   "files": {
-    "main.css": "/halobinary/static/css/main.ebc02a68.css",
-    "main.js": "/halobinary/static/js/main.43d8cbbe.js",
+    "main.css": "/halobinary/static/css/main.68b5382a.css",
+    "main.js": "/halobinary/static/js/main.766f0ecc.js",
     "static/js/787.9f933c3c.chunk.js": "/halobinary/static/js/787.9f933c3c.chunk.js",
     "static/media/pxArt.png": "/halobinary/static/media/pxArt.a16f1d19b73b516c57a4.png",
     "static/media/halo-webfont.woff": "/halobinary/static/media/halo-webfont.f08a1d6205ad5172e24c.woff",
     "static/media/halo-webfont.woff2": "/halobinary/static/media/halo-webfont.5859063ee50b7fe821a8.woff2",
-    "static/media/logo.svg": "/halobinary/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/halobinary/index.html",
-    "main.ebc02a68.css.map": "/halobinary/static/css/main.ebc02a68.css.map",
-    "main.43d8cbbe.js.map": "/halobinary/static/js/main.43d8cbbe.js.map",
+    "main.68b5382a.css.map": "/halobinary/static/css/main.68b5382a.css.map",
+    "main.766f0ecc.js.map": "/halobinary/static/js/main.766f0ecc.js.map",
     "787.9f933c3c.chunk.js.map": "/halobinary/static/js/787.9f933c3c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ebc02a68.css",
-    "static/js/main.43d8cbbe.js"
+    "static/css/main.68b5382a.css",
+    "static/js/main.766f0ecc.js"
   ]
 }
